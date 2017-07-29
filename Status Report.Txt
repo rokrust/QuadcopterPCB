@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Quadcopter_controller.PcbDoc]
+   Generated File[Quadcopter_controller-Plated.TXT]
+   Generated File[Quadcopter_controller-NonPlated.TXT]
+   Generated File[Quadcopter_controller.LDP]
+   Generated File[Quadcopter_controller.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 00:16:42 On 23.06.2017

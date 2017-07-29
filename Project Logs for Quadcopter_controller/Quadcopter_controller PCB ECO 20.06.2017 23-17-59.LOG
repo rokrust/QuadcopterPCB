@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=VCC Pin=ATMEGA328P-20
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Member To Class: ClassName=U_NEO6MV2 Member=Component FC3 100nF

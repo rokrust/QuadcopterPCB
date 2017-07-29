@@ -1,0 +1,25 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Quadcopter_controller.PrjPcb|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\Projects\Quadcopter_controller\Quadcopter_controller.PrjPcb|ReportField=Title~Bill of Materials For Project [Quadcopter_controller.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~24|ReportField=ReportTime~22:38:00|ReportField=ReportDate~22.06.2017|ReportField=ReportDateTime~22.06.2017 22:38:00|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~22.06.2017|ReportField=CurrentTime~22:37:47|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Public\Documents\Altium\Projects\Quadcopter_controller\Quadcopter_controller.SchDoc|ReportField=DocumentName~Quadcopter_controller.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~21.06.2017|ReportField=Organization~|ReportField=ProjectName~Quadcopter_controller.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Quadcopter_controller.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\Quadcopter_controller\Quadcopter_controller.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|LM3940IT-3.3|1A Low Dropout Regulator for 5V to 3.3V Conversion, 3-pin TO-220|U1|T03B|1
+2|ATmega328P-PU|8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 28-pin PDIP, Industrial Grade (-40°C to 85°C)|ATMEGA328P|28P3|1
+3|0.47uF|Capacitor|C4|RAD-0.3|1
+4|10nF|Capacitor|C1|RAD-0.3|1
+5|20pF|Capacitor|C3|RAD-0.3|1
+6|20pF|Capacitor|C6|RAD-0.3|1
+7|33uF|Capacitor|C2|RAD-0.3|1
+8|100nF|Capacitor|C5|RAD-0.3|1
+9|100nF|Capacitor|FC1|RAD-0.3|1
+10|100nF|Capacitor|FC2|RAD-0.3|1
+11|100nF|Capacitor|FC3|RAD-0.3|1
+12|100uF|Capacitor|FC4|RAD-0.3|1
+13|XTAL|Crystal Oscillator|Y1|R38|1
+14|Header 3|Header, 3-Pin|M1|HDR1X3|1
+15|Header 3|Header, 3-Pin|M2|HDR1X3|1
+16|Header 3|Header, 3-Pin|M3|HDR1X3|1
+17|Header 3|Header, 3-Pin|M4|HDR1X3|1
+18|GPS|Header, 4-Pin|NEO6MV2|HDR1X4|1
+19|nRF24L01+|Header, 4-Pin, Dual row|NRF24L01+|HDR2X4|1
+20|Header 8|Header, 8-Pin|MPU6050|HDR1X8|1
+21|4.7K|Resistor|R2|AXIAL-0.3|1
+22|10K|Resistor|R1|AXIAL-0.3|1
+23|10K|Resistor|R3|AXIAL-0.3|1
+24|SW-PB|Switch|S1|SPST-2|1

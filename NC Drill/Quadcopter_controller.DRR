@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Quadcopter_controller.PcbDoc   23.06.2017  00:16:42
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Quadcopter_controller-Plated.TXT
+ASCII Non-Plated RoundHoles File : Quadcopter_controller-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             22        PTH        8.37inch (212.68mm)
+T2      33mil (0.838mm)                                           Round             6         PTH        2.45inch (62.21mm)
+T3      35mil (0.889mm)                                           Round             60        PTH        10.59inch (269.09mm)
+T4      39mil (0.991mm)                                           Round             3         PTH        0.20inch (5.08mm)
+T5      43mil (1.092mm)                                           Round             2         PTH        0.20inch (5.08mm)
+T6      79mil (2.007mm)                                           Round             4         NPTH       3.60inch (91.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              97
+
+Total Processing Time (hh:mm:ss) : 00:00:00

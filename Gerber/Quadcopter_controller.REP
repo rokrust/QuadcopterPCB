@@ -1,0 +1,239 @@
+*************************************************************
+FileName = Quadcopter_controller.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Quadcopter_controller.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Quadcopter_controller.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Quadcopter_controller.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Quadcopter_controller.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Quadcopter_controller.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D11
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Quadcopter_controller.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Quadcopter_controller.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Quadcopter_controller.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Quadcopter_controller.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Quadcopter_controller.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : Quadcopter_controller.GM16
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D40
+    D41
+    D42
+*************************************************************
+
